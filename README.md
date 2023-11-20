@@ -5,5 +5,6 @@ About this project:
 
 Execution process:
 # Main class is DomesticEBbillcalculation
+# In this project also has Database connectivity by this we can also save,view and delete our bill.
 
 
